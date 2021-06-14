@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Album application</string>
+    <string name="search_title">Search album</string>
+    <string name="search_hint">Search by title…</string>
+    <string name="search_album_toolbar_error">Invalid album identifier</string>
+    <string name="no_data_available">No data available</string>
+    <string name="identifier_number">"Identifier: %d"</string>
+    <string name="user_id">User identifier</string>
+    <string name="title">Title</string>
+    <string name="login_description">Screen to simulate login in app. Get the albums for a determinate user.</string>
+    <string name="dark_theme">Dark mode</string>
+    <string name="sign_in">Sign in</string>
+    <string name="an_error_has_ocurred">An error has occurred</string>
+    <string name="add_album">Add album</string>
+    <string name="create_album">Create Album</string>
+    <string name="create">Create</string>
+    <string name="id">Identifier</string>
+    <string name="field_required">Field required</string>
+    <string name="field_invalid">Field invalid</string>
+    <string name="invalid_user_id_creating_album">Invalid user id try with other when you sign in</string>
+    <string name="send_patch_update">Update(PATCH)</string>
+    <string name="send_update">Update (PUT)</string>
+    <string name="delete_title">Delete album</string>
+    <string name="send_delete">Delete album</string>
+</resources>

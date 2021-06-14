@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="textColor">#E3E3E3</color>
+    <color name="backgroundColor">#232323</color>
+    <color name="backgroundLogin">#111111</color>
+    <color name="backgroundColorError">#222222</color>
+    <color name="backgroundColorPhotoText">#242424</color>
+    <color name="textColorLogin">#FFFFFF</color>
+    <color name="rippleColor" >#333333</color>
+    <color name="textColorHint">#c7c7c7</color>
+</resources>
